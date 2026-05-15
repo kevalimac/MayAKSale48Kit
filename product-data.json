@@ -1,86 +1,5 @@
 [
- {
-    "id": "41",
-    "name": "Prestige IRIS ECO 1200 W Induction Cooktop with automatic voltage regulator |Indian Menu option|Power Saver|Timer with User Pre-Set| Black       ",
-    "mainimg": "https://m.media-amazon.com/images/I/61Vu80YcolL._SX679_.jpg",
-    "dis": "93%",
-    "total": "₹2,999",
-    "disprice": "₹418",
-    "slide": [
-      "https://m.media-amazon.com/images/I/61Vu80YcolL._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/81uk2K736TL._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/81J+A2goM+L._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/81l60lHvBYL._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/81OhlSqgLjL._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/81unm0d-vXL._SL1500_.jpg"
-    ],
-    "trending": true,
-    "reviews": [
-      {
-        "rating": 5,
-        "title": "Excellent Pressure Handi",
-        "text": "Heats evenly and cooks food perfectly. Very happy with this purchase.",
-        "buyerName": "Aditya Sharma",
-        "verified": true,
-        "location": "Bangalore",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Highly Recommended",
-        "text": "Strong and durable. Very convenient for daily cooking.",
-        "buyerName": "Mihir Kapoor",
-        "verified": true,
-        "location": "Chennai",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Very Efficient",
-        "text": "cooking perfectly. Saves time and energy.",
-        "buyerName": "Riddhi Deshmukh",
-        "verified": true,
-        "location": "Pune",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Sturdy & Reliable",
-        "text": "High-quality build and easy to clean. Great addition to my kitchen.",
-        "buyerName": "Ananya Singh",
-        "verified": true,
-        "location": "Amritsar",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Best Buy",
-        "text": "Affordable and efficient. Works exactly as described.",
-        "buyerName": "Subham Rathi",
-        "verified": true,
-        "location": "Jamnagar",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
-        ]
-      }
-    ]
-  },
-  
- 
- 
+
  {
     "id": "1",
     "name": "Prestige 5 Litres Svachh Nakshatra Plus Induction Base Inner Lid Hard Anodised Pressure Handi | Black",
@@ -467,6 +386,73 @@
       }
     ]
   },
+
+{
+    "id": "25",
+    "name": "Orient Electric 1200 mm Zeno BLDC | BLDC energy saving ceiling fan with Remote | 3-year warranty by Orient | White",
+    "mainimg": "https://m.media-amazon.com/images/I/41FuGxFRcXL._SX679_.jpg",
+    "dis": "92%",
+    "total": "₹2,999",
+    "disprice": "₹398",
+    "slide": [
+      "https://m.media-amazon.com/images/I/41FuGxFRcXL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71RdA3ZfWzL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61nYtCK1pTL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/6132cd9WDkL._SL1500_.jpg"
+    ],
+    "trending": false,
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Excellent!",
+        "text": "Good in quality. Running perfectly, Remote control option is very effective.",
+        "buyerName": "Rajeshwari Verma",
+        "verified": true,
+        "location": "Hydrabad",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/41FuGxFRcXL._SX679_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Great value for money",
+        "text": "Very convenient to use. Totally worth it!",
+        "buyerName": "Rohit josheph",
+        "verified": true,
+        "location": "Tamilnadu",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/41FuGxFRcXL._SX679_.jpg"
+        ]
+      },
+      {
+        "rating": 4,
+        "title": "Nice design and easy to clean",
+        "text": "Looks elegant and The blades are very efficient.",
+        "buyerName": "Avni Patel",
+        "verified": true,
+        "location": "Surat",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/41FuGxFRcXL._SX679_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Loved the quality!",
+        "text": "Sturdy build and stylish finish. ",
+        "buyerName": "Pooja mahidra",
+        "verified": true,
+        "location": "Kochi",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/41FuGxFRcXL._SX679_.jpg"
+        ]
+      }
+      
+    ]
+  },
  
   {
     "id": "30",
@@ -549,159 +535,85 @@
   },
 
   {
-    "id": "25",
-    "name": "Havells Instanio 3L Instant Water Heater(Geyser)| Temp. Sensing LED Indicator| Rust & Shock Proof Body| ISI Marked|Warranty: 5 year on Inner Tank| High Rise Compatible (White Blue)",
-    "mainimg": "https://m.media-amazon.com/images/I/51+Bh5W2orL._SL1500_.jpg",
-    "dis": "92%",
-    "total": "₹4,500",
-    "disprice": "₹498",
-    "slide": [
-      "https://m.media-amazon.com/images/I/51+Bh5W2orL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61Zzls2GPpL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71B5mkKd1AL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71rjGCcXogL._SL1500_.jpg"
-    ],
-    "trending": false,
-    "reviews": [
-      {
-        "rating": 5,
-        "title": "Superb Performance",
-        "text": "Heats evenly and cooks perfectly every time. Very happy with the purchase.",
-        "buyerName": "Aarav Reddy",
-        "verified": true,
-        "location": "Hyderabad",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/51+Bh5W2orL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Very Useful",
-        "text": "Compact design and easy to operate. Works great for my family.",
-        "buyerName": "Ishita Kapoor",
-        "verified": true,
-        "location": "Ahmedabad",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/51+Bh5W2orL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Excellent Appliance",
-        "text": "Love the convection feature.",
-        "buyerName": "Vivaan Malhotra",
-        "verified": true,
-        "location": "Chandigarh",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/51+Bh5W2orL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Highly Recommend",
-        "text": "Stylish, efficient, and easy to clean. Worth every rupee.",
-        "buyerName": "Ananya Desai",
-        "verified": true,
-        "location": "Bhopal",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/51+Bh5W2orL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Good Value",
-        "text": "Does the job perfectly.",
-        "buyerName": "Ritvik Sharma",
-        "verified": true,
-        "location": "Surat",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/51+Bh5W2orL._SL1500_.jpg"
-        ]
-      }
-    ]
-  },
-  {
     "id": "5",
-    "name": "Elica Vetro Glass Top 4 Burner Auto Ignition Gas Stove (694 CT VETRO SS AI), Black",
-    "mainimg": "https://m.media-amazon.com/images/I/71RX6d+02hL._SL1500_.jpg",
-    "dis": "89%",
-    "total": "₹3,599",
-    "disprice": "₹398",
+    "name": "atomberg Renesa 400mm Pedestal Fan | 5-star rated | 2 Years Warranty (Midnight Black)",
+    "mainimg": "https://m.media-amazon.com/images/I/710CFw58+gL._SX679_.jpg",
+    "dis": "90%",
+    "total": "₹3,199",
+    "disprice": "₹488",
     "slide": [
-      "https://m.media-amazon.com/images/I/71RX6d+02hL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/41JG23kNZsL.jpg",
-      "https://m.media-amazon.com/images/I/81PvyDtut2L._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/814acYpRWGL._SL1500_.jpg"
+      "https://m.media-amazon.com/images/I/710CFw58+gL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61eE8KvWHML._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61U3LeFQGqL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/717lYQ8J6KL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71Jv0SMU3gL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61PgQLAp0IL._SL1080_.jpg"
     ],
-    "trending": false,
+    "trending": true,
     "reviews": [
       {
         "rating": 5,
-        "title": "Excellent Design",
-        "text": "The burners heat up evenly and the glass top looks premium. Very happy with it!",
-        "buyerName": "Ritika Singh",
+        "title": "Excellent",
+        "text": "Overall a good energy efficient product",
+        "buyerName": "Aditya Mishra",
         "verified": true,
         "location": "Bangalore",
         "daysAgo": "1 day ago",
         "images": [
-          "https://m.media-amazon.com/images/I/71RX6d+02hL._SL1500_.jpg"
+          "https://m.media-amazon.com/images/I/710CFw58+gL._SX679_.jpg"
         ]
       },
       {
         "rating": 4,
-        "title": "Good for Daily Use",
-        "text": "Simple to clean and use. Perfect for everyday cooking in a small kitchen.",
-        "buyerName": "Arjun Mehta",
+        "title": "Highly Recommended",
+        "text": "Product is very good. The base is strong and sturdy. The vertical pillars are made of steel which is also strong.",
+        "buyerName": "Manish Pal",
         "verified": true,
-        "location": "Delhi",
+        "location": "Mumbai",
         "daysAgo": "2 days ago",
         "images": [
-          "https://m.media-amazon.com/images/I/71RX6d+02hL._SL1500_.jpg"
+          "https://m.media-amazon.com/images/I/71u68SD9V0L.jpg"
         ]
       },
       {
         "rating": 5,
-        "title": "Highly Functional",
-        "text": "Auto ignition works flawlessly and the burners are efficient. Very satisfied!",
-        "buyerName": "Sneha Kapoor",
-        "verified": true,
-        "location": "Kolkata",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/71RX6d+02hL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Stylish & Durable",
-        "text": "Glass top gives a modern look. Sturdy and easy to maintain. Excellent purchase!",
-        "buyerName": "Rohan Pillai",
-        "verified": true,
-        "location": "Chennai",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/71RX6d+02hL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Value for Money",
-        "text": "Works well for my family of four. Looks elegant on the countertop.",
-        "buyerName": "Anita Sharma",
+        "title": "Very Efficient",
+        "text": "very good and easy and nice product",
+        "buyerName": "Rohan Patil",
         "verified": true,
         "location": "Pune",
         "daysAgo": "1 day ago",
         "images": [
-          "https://m.media-amazon.com/images/I/71RX6d+02hL._SL1500_.jpg"
+          "https://m.media-amazon.com/images/I/71L6bqPoz2L.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Sturdy & Reliable",
+        "text": "High-quality build and easy to clean.",
+        "buyerName": "Ananya",
+        "verified": true,
+        "location": "Kolkata",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/710CFw58+gL._SX679_.jpg"
+        ]
+      },
+      {
+        "rating": 4,
+        "title": "Best Buy",
+        "text": "Affordable and efficient. Works exactly as described.",
+        "buyerName": "Vivaan Rathi",
+        "verified": true,
+        "location": "Ahmedabad",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/710CFw58+gL._SX679_.jpg"
         ]
       }
     ]
   },
+  
   {
     "id": "17",
     "name": "Sujata Powermatic Maxima Juicer Mixer Grinder|900 Watts | 3 Jars including 1750ml Blender, 1000ml Grinder, 500ml Chutney Jar",
@@ -1011,84 +923,7 @@
       }
     ]
   },
-  {
-    "id": "23",
-    "name": "Orient Electric Arc Plus 1.5kw Immersion water heater|100% shock proof body|Heavy copper element With Bucket clip| ISI certified  2 years replacement warranty",
-    "mainimg": "https://m.media-amazon.com/images/I/61JjdIoAtgL._SL1500_.jpg",
-    "dis": "92%",
-    "total": "₹1,749",
-    "disprice": "₹278",
-    "slide": [
-      "https://m.media-amazon.com/images/I/61JjdIoAtgL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/91aW3SBqgCL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/91xwZVYP0ML._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/81A-WXT4oYL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/81uaFHyp6XL._SL1500_.jpg"
-    ],
-    "trending": true,
-    "reviews": [
-      {
-        "rating": 5,
-        "title": "Perfect for daily cooking",
-        "text": "The combo is perfect for all family sizes. Heats evenly and safe to use.",
-        "buyerName": "Anaya Reddy",
-        "verified": true,
-        "location": "Bangalore",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/61JjdIoAtgL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Sturdy and reliable",
-        "text": "Hard anodised build feels very strong. Works perfectly on induction and easy to clean.",
-        "buyerName": "Rohan Mehta",
-        "verified": true,
-        "location": "Mumbai",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/61JjdIoAtgL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Great value for money",
-        "text": "All in one set are very convenient. Heats food evenly and durable.",
-        "buyerName": "Isha Kapoor",
-        "verified": true,
-        "location": "Delhi",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/61JjdIoAtgL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Excellent combo set",
-        "text": "Very handy set for a family kitchen. Outer lid design adds safety and prevents spillage.",
-        "buyerName": "Aarav Sharma",
-        "verified": true,
-        "location": "Chennai",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/61JjdIoAtgL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Compact and efficient",
-        "text": "Compact design saves space in the kitchen.",
-        "buyerName": "Neha Patel",
-        "verified": true,
-        "location": "Pune",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/61JjdIoAtgL._SL1500_.jpg"
-        ]
-      }
-    ]
-  },
+  
   {
     "id": "28",
     "name": "Havells Dry Iron Dazzle 1100 Watts, Iron Press, Greblon Non Sick Soleplate with German Technology, Shock Proof Body, Aerodynamic Design, 360° Swivel Cord, 2 Year Manufacturer Warranty (Black)",
